@@ -21,4 +21,6 @@ function increment(){
     console.log("Counter: " + counter)
 }
 
-increment()
+increment();
+
+//Here are some changes in this file and also added another file with code.
